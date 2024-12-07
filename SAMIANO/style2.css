@@ -1,0 +1,63 @@
+body{
+    background-color: yellow;
+}
+.header{
+    background-color: orange;
+    padding: 10px;
+    display: flex;
+}
+.box1{
+    background-color: red;
+    color: red;
+    padding: 5px;
+    margin: 6px;
+}
+.box2{
+    background-color: red;
+    color: red;
+    padding: 10px;
+    margin: 6px;
+}
+.box3{
+    background-color: red;
+    color: red;
+    padding: 5px;
+    margin: 6px;
+    position: sticky;
+    left: 1800px;
+}
+.rec1{
+    background-color: blueviolet;
+    color: blueviolet;
+    padding: 30px;
+    margin: 10pxx;
+    margin-right: 1200px;
+}
+.rec2{
+    background-color: rgb(172, 141, 85);
+    color: rgb(172, 141, 85);
+    padding: 150px;
+    margin: 10pxx;
+    margin-right: 1200px;
+}
+.list1{
+    background-color: blue;
+    color: blue;
+    padding: 20px;
+    margin-top: -10px;
+    margin-right: 1220px;
+}
+.list2{
+    background-color: blue;
+    color: blue;
+    padding: 10px;
+    margin-top: 5px;
+    margin-right: 1220px;
+}
+.list3{
+    background-color: blue;
+    color: blue;
+    padding: 10px;
+    margin-top: 11px;
+    margin-right: 1220px;
+}
